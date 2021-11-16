@@ -4,4 +4,6 @@
 
 ## develop
 
+## ren.takahashi
+
 ## kenshu
